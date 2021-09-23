@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ortizkate
-- 👀 I’m interested in gamming (for living) and IOT (for working).
-- 🌱 I’m currently learning LoRaWan deploys, software and hardware
-- 💞️ I’m looking to collaborate on IOT platforms.
+- 👀 I’m interested in gamming (for living) and Industrial Instrumentation and Control (for working).
+- 🌱 I’m currently learning LoRaWan deploys, IOT & others stuffs
+- 💞️ I’m looking to collaborate on IOT platforms, DataScience proyects, and Sciences.
 - 📫 How to reach me ...
 
 <!---
